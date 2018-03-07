@@ -1,8 +1,8 @@
 @font-face {
-font-family: 'Bebas Neue Regular';
+font-family: 'bebasneueregularbold.woff';
 font-style: normal;
 font-weight: normal;
-src: local('Bebas Neue Regular'), url('fonts/bebasneueregularbold.woff') format('woff');
+src: local('bebasneueregularbold.woff'), url('fonts/BebasNeue Bold.woff') format('woff');
 }
 
 body {
@@ -66,7 +66,7 @@ body {
 
 .about-bg {
     background: black;
-    background: rgba(0, 0, 0, 0.54);
+    background: rgba(0, 0, 0, 0.40);
     margin-top: 100px;
 }
 
