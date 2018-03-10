@@ -1,6 +1,6 @@
 <div class="col-lg-2 col-md-3 hidden-sm hidden-xs">
     <div class="logo">
-        <a href="index.php"><img style="padding: 20px 0px 0px 32px;" src="images/Logo_quantum.png" class="img-responsive" /></a>
+        <a href="index.php"><img style="padding: 20px 0px 0px 38px;" src="images/Logo_quantum.png" class="img-responsive" /></a>
         <div class="clearfix"></div>
         <ul class="nav-ul">
             <li><a href="index.php">QUANTUM</a></li>
