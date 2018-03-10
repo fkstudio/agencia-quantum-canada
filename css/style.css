@@ -1,12 +1,11 @@
 @font-face {
-font-family: 'bebasneueregularbold.woff';
+font-family: 'Fjalla One', sans-serif;
 font-style: normal;
 font-weight: normal;
-src: local('bebasneueregularbold.woff'), url('fonts/BebasNeue Bold.woff') format('woff');
 }
 
 body {
-    font-family: "Bebas Neue Regular", Arial, Verdana, Helvetica, sans-serif;
+   font-family: 'Fjalla One', sans-serif;
 }
 
 .fade-out {
@@ -41,6 +40,7 @@ body {
     text-transform: uppercase;
     font-weight: bold;
     margin: 0 auto;
+    margin-top: 300px;
     text-align: center center;
     max-width: 75%;
     letter-spacing:5px;
