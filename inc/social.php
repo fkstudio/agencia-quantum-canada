@@ -6,5 +6,8 @@
 	    <a target="_blacnk" href="https://www.instagram.com/quantumagencia/">
 	        <img style="max-width: 40px;margin-top: 30px;float: right;" src="images/instagram.png" class="img-responsive" />
 	    </a>
+	     <a target="_blacnk" href="https://www.linkedin.com/company/quantum-canada-srl/">
+	        <img style="max-width: 40px;margin-top: 30px;float: right;" src="images/linkedin.png" class="img-responsive" />
+	    </a>
 	</div>
 </div>
