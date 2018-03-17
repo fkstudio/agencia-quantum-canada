@@ -66,6 +66,11 @@
                                 <img src="images/instagram.png" class="img-responsive" />
                             </a>
                         </div>
+                        <div class="col-lg-2 col-md-4 col-sm-2 col-xs-2">
+                            <a target="_blacnk" href="https://www.linkedin.com/company/quantum-canada-srl/">
+                                <img src="images/linkedin.png" class="img-responsive" />
+                            </a>
+                        </div>
                     </div>
                     <div class="col-md-7">
                         <div class="clearfix"></div>
